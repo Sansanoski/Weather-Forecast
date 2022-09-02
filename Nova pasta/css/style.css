@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-  max-width: 400px;
+  max-width: 500px;
 }
 
 h1 {
@@ -14,8 +14,8 @@ h1 {
   top: -47px;
   border-radius: 50%;
 }
-.iconImage{
-  width: 133px;
+.imageIcon{
+  width: 40px;
 }
 .imgIcon {
   width: 40px;
